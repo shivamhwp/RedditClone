@@ -1,0 +1,10 @@
+.vercel
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.npm-debug.log*
+
+.env*.local
+
+.tsbuildinfo
+.DS_Store
